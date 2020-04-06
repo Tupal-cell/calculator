@@ -2,6 +2,7 @@
   height: 60px;
   background-color: #bbb;
   width: 100%;
+  text-align: right ;
 }
 
 .result p {
@@ -17,11 +18,17 @@
 
 .button {
   display: block;
-  background-color: #bbb;
 }
 
 button {
   width: 25%;
   height: 60px;
   font-size: 30px;
+}
+.number{
+  
+  background-color: #DCDCE1 ;
+}
+.symbol{
+  background-color: #D0976D;
 }

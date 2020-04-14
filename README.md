@@ -1,7 +1,9 @@
 
 Design with Figma :
 
-https://www.figma.com/file/yi11yIFHgvVh8X1taAJqp4/Untitled?node-id=0%3A1
+https://www.figma.com/file/u7WtRYP7KW409vVHchuWKj/Untitled?node-id=0%3A1
+
+![calculator](https://github/Tupall-cell/calculator/design/calculator.png)
 
 
 

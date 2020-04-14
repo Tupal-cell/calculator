@@ -3,7 +3,7 @@ Design with Figma :
 
 https://www.figma.com/file/u7WtRYP7KW409vVHchuWKj/Untitled?node-id=0%3A1
 
-![calculator](https://github/Tupall-cell/calculator/design/calculator.png)
+![calculator](https://github.com/Tupall-cell/calculator/design/calculator.png)
 
 
 
